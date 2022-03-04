@@ -1,0 +1,16 @@
+{
+  "name": "Acid Academy",
+  "main": "AC.js",
+  "scripts": {
+    "start": "node AC.js"
+  },
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.1",
+    "fresh.db": "^1.0.7",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}
